@@ -10,9 +10,13 @@
   #### 🛠 Tech Stack
 
   **Languages:** Go, PHP
+  
   **Backend:** gRPC, REST, Symfony, Clean Architecture
+  
   **Data:** PostgreSQL, Redis, Kafka
+  
   **Infra:** Docker, docker-compose, CI/CD (GitHub Actions), Linux
+  
   **Practices:** Unit/integration testing, golangci-lint, code review
 
   ---
